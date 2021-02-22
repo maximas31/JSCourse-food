@@ -1,3 +1,1 @@
-# Git / Gitgub Course
-
-Crash course for Git
+# JS Course
